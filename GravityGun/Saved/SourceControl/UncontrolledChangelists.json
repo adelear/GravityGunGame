@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/VGD/Term 5/VGP223-Physics3/GravityGunGame/GravityGun/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/VGD/Term 5/VGP223-Physics3/GravityGunGame/GravityGun/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset"
+			]
+		}
+	]
+}
